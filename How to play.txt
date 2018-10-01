@@ -1,0 +1,6 @@
+A D = berjalan
+Mouse 1 = interaksi dengan objek
+Spase = auto finish / skip dialog
+C = hide
+F = flashlight
+E = pindah ruangan
